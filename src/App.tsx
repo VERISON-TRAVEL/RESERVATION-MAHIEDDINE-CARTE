@@ -273,7 +273,7 @@ function App() {
                   />
                 </div>
                 <h1 className="text-4xl font-bold text-gray-900 text-center md:text-right flex-1">
-                  Complex <span className="text-orange-600">MAHIEDDINE</span> "Ain Témouchent"
+                  Complex <span className="text-orange-600">MAHIEDDINE</span> <p>"Ain Témouchent"</p>
                 </h1>
               </div>
             </div>
